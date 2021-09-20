@@ -9,10 +9,10 @@ Ex: Alg: R U2 R' U' F2 U' F'
 When evaluating the score for the 3rd move in the sequence, the probability of an R U2 being followed by an R' may be 0.21 based on the Approved algorithms data collected earlier. The log of that probability is then added to the algorithms overall score.
 
 ## Running the Program
-Use [Ksolve Online](https://cubing.net/ksolve.js/) (or download KSolve++ for command line use) to generate several thousand algorithms for a given case. Copy the output. Extraneous input will be filtered out.
-Paste into textbox
+- Use [Ksolve Online](https://cubing.net/ksolve.js/) (or download KSolve++ for command line use) to generate several thousand algorithms for a given case. Copy the output. Extraneous input will be filtered out.
+- Paste into textbox
 ![SDfDS](/images/algsorter1.PNG)
-Click run to view results
+- Click run to view results
 ![SDfDS](/images/algsorter2.PNG)
 
 
