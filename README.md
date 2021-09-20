@@ -12,7 +12,9 @@ When evaluating the score for the 3rd move in the sequence, the probability of a
 - Use [Ksolve Online](https://cubing.net/ksolve.js/) (or download KSolve++ for command line use) to generate several thousand algorithms for a given case. Copy the output. Extraneous input will be filtered out.
 - Paste into textbox
 ![SDfDS](/images/algsorter1.PNG)
-- Click run to view results
+- Click 'Submit' to view results
 ![SDfDS](/images/algsorter2.PNG)
+-Scores closer to 0 signify good candidates
 
-
+## Notes
+[Personal spreadsheet of 2x2 algorithms that is frequently updated](https://docs.google.com/spreadsheets/d/1OFXakCV85Mp2zsQBXMxiMX9a506JeAcLnUXZr8FgXAY)
