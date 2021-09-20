@@ -1,6 +1,5 @@
 <h1>AlgRanker</h1>
-  AlgRanker is a tool for quickly filtering and ranking 2x2 Rubik's Cube Algorithms.
-  2x2 Algorithms are notated such as:
+  AlgRanker is a tool for quickly filtering and ranking 2x2 Rubik's Cube Algorithms. 2x2 Algorithms are notated such as:
   
   R U2 R' U' R' F R F'
   
