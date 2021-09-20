@@ -10,7 +10,6 @@ When evaluating the score for the 3rd move in the sequence, the probability of a
 
 ## Running the Program
 Use [Ksolve Online](https://cubing.net/ksolve.js/) (or download KSolve++ for command line use) to generate several thousand algorithms for a given case. Copy the output. Extraneous input will be filtered out.
-
 Paste into textbox
-
+![SDfDS](/images/algsorter1.PNG)
 Click run to view results
