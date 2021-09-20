@@ -13,3 +13,6 @@ Use [Ksolve Online](https://cubing.net/ksolve.js/) (or download KSolve++ for com
 Paste into textbox
 ![SDfDS](/images/algsorter1.PNG)
 Click run to view results
+![SDfDS](/images/algsorter2.PNG)
+
+
